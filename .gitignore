@@ -1,0 +1,12 @@
+datasets/
+data/
+results/
+checkpoints/
+logs/
+*.bak*
+*.local
+.*credentials*
+__pycache__/
+*.bit
+*.tgz
+*.o[0-9]*
